@@ -16,7 +16,7 @@
 <br />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyass546&show_icons=true&locale=en&layout=compact" alt="ie-laabb" /></p>
 
-<img align="left" alt="Elaabbassi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ie-laabb&show_icons=true&hide_border=true" />
+<img align="left" alt="Elaabbassi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elyass546&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/ilias-el-aabbassi-ba58a6210/
 

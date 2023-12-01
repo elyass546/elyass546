@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: elaabbassiilias@gmail.com
 
-- 👨‍💻 I mostly Code in **C/C++**
+- 👨‍💻 I mostly Code in **C/C++** and **JavaScript**
 
 - 👾 am currently working on **1337 Projects**
 

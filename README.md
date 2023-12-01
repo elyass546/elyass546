@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **elyass546/elyass546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![ie-laabb's 42 stats](https://badge42.vercel.app/api/v2/cl45kpb2y007309lbmcz7nr7v/stats?cursusId=21&coalitionId=80)](https://github.com/JaeSeoKim/badge42)

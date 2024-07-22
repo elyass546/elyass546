@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ilias EL AABBASSI
-### Computer Science Student
+### Junior Software Engineer
 
 - 🌱 I’m Currently Learning <a href="https://1337.ma/en">1337</a>
 
